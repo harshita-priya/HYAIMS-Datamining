@@ -130,7 +130,3 @@ create_kibana_dashboard(elasticsearch_index)
 - Integration with BI Tools: Enable direct export to Tableau and Power BI.
 - Advanced Sentiment Analysis: Incorporate emotion detection and context-aware models.
 
----
-
-This documentation provides an in-depth understanding of the AI Data Mining System and can effectively showcase your technical capabilities and project impact.
-
